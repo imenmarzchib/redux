@@ -1,0 +1,9 @@
+import React from 'react'
+
+const Header = () => {
+  return (
+    <div className='app-header'><h1>to do app with react tolkit</h1></div>
+  )
+}
+
+export default Header
